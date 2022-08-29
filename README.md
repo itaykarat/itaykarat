@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itaykarat
-- 👀 I’m interested in Algorithms
-- 🌱 I’m currently learning Computer and information systems
-- 💞️ I’m looking to collaborate on data science and Computer vision
+- 👀 I’m interested in Computer vision and deep learning.
+- 🌱 I’m currently learning Computer and information systems.
+- 💞️ I’m looking to collaborate on Practicle and theoretical computer science projects.
 - 📫 How to reach me itaykarat13@gmail.com
 
 <!---
